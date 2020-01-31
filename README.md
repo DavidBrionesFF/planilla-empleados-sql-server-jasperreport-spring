@@ -49,3 +49,6 @@ Es un patron de diseño que nos permite que solo se encuentre una sola instancia
 Una vez dicho esto puedes empezar a desarrollar el sistema el cual te dejare la explicacion en el siguiente video, suscribete para mas videos!!
 
 Video de Documentacion y Explicacion Aqui: https://www.youtube.com/watch?v=Ln9riL7ujR0&t=1242s
+
+Esquema de la base de datos
+![Base de datos](https://raw.githubusercontent.com/DavidBrionesFF/planilla-empleados-sql-server-jasperreport-spring/master/db.jpg)
